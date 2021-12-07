@@ -1,0 +1,3 @@
+This is my first hands on django framework....
+
+Just trying to learn how django works in general..
